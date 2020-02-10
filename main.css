@@ -4,7 +4,7 @@
 }
 #welcome-section{
   background-color: white;
-  padding: 60px;
+  padding: 63px;
   display: block;
   font-color: black;
   margin-top:  15%;
@@ -47,6 +47,7 @@ h3{
   margin-left: -8px;
   margin-right: -8px;
   background-color: white;
+  padding: 10px;
 }
 .nav-link{
   text-color: white;
